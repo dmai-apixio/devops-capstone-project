@@ -1,9 +1,17 @@
-# DevOps Capstone Template
+# devops-capstone-project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
-This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+## Project Description
+
+This is the **devops-capstone-project** for the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering).
+
+The project builds a **Customer Accounts microservice** for an e-commerce website. It exposes a well-formed REST API that other microservices can call to manage customer accounts. The service supports the full set of CRUD operations to **create, read, update, delete, and list** customer accounts, where each account stores basic customer information such as names and addresses.
+
+Development follows agile practices (Sprint 0 planning on a GitHub Kanban board) and DevOps practices including test-driven development, CI/CD pipelines, containerization with Docker, and deployment to Kubernetes/OpenShift.
+
+This repository was created from the starter code for the [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering).
 
 ## Usage
 
